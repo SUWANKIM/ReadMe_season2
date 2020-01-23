@@ -132,7 +132,7 @@
         
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-       width="18" height="18">huckleberryPin_26(인스타)을 팔로우 하고 여행기를 공유해 주세요~<br>&nbsp;&nbsp;&nbsp;&nbsp;공유해 주신 분들께 <b>엄청난 선물</b>을 드립니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>#허클베리핀 #huckleberryPin #클리핀 #소셜벤처 #스타트업 #충주시 #흙사랑농원 #세월을파는농부</b><br>&nbsp;&nbsp;&nbsp;&nbsp;(여행 마지막 날 담당자에게 꼭 보여주세요.)</p>        
+       width="18" height="18">huckleberryPin_26(인스타)을 팔로우 하고 여행기를 공유해 주세요~<br>&nbsp;&nbsp;&nbsp;&nbsp;공유해 주신 분들께 <b>엄청난 선물</b>을 드립니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>#허클베리핀 #huckleberryPin #클리핀 #소셜벤처 #스타트업 #충주시</b><br>&nbsp;&nbsp;&nbsp;&nbsp;(여행 마지막 날 담당자에게 꼭 보여주세요.)</p>        
 
 
 <br>
