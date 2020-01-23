@@ -124,7 +124,7 @@
         width="18" height="18">사과의 품종은 <b>부사</b>입니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;사과 수확 방식은 농가마다 다릅니다:)<br>&nbsp;&nbsp;&nbsp;&nbsp;농가의 수확 방식을 따라주세요.</p>
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-        width="18" height="18">여행중 음주는 가급적 노동이 끝난 후 해주세요. <br>&nbsp;&nbsp;&nbsp;&nbsp; 일하기 전날(31일) 무리한 음주는 다음날 노동에 영향을 줄 수 있습니다. (노동 끝난 후 만취 가능) </p>
+        width="18" height="18">여행중 음주는 가급적 노동이 끝난 후 해주세요. <br>&nbsp;&nbsp;&nbsp;&nbsp; 일하기 전날(31일) 무리한 음주는 다음날 노동에 영향을 줄 수 있습니다. <br>&nbsp;&nbsp;&nbsp;&nbsp; (노동 끝난 후 만취 가능) </p>
         
         
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
