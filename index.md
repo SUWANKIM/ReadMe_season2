@@ -33,20 +33,18 @@
 
 ## Q. 사과 농장에서 어떤 일을 하게 되나요?
  
-- 사과 수확 시즌은 모두 끝났습니다.<br>
-- 1월은 현장 상황에 따라 전지작업, 비닐깔기 등의 일을 하게 됩니다.<br>
-- 사과는 따는 일만 있는 것이 아니라 운반, 보조 등 일이 나누어져 있습니다.<br> 
+- 사과 농장의 1월 업무는 전지작업, 비닐깔기 등 입니다.<br>
+- 농가의 현장 상황에 따라 노동 종류가 변경될 수 있습니다.<br>
 - 항상 안전에 유의하시고 사과의 품질에 손상이 가지 않도록 신경 써주세요.
 
 <br>
 
-## Q. 밥 시간은 언제인가요?
-//메뉴 명확히 
+## Q. 밥 시간은 언제인가요? 
 
 - <b>20일</b>  저녁 22시 00분 : 컵라면&김치
 - <b>21일</b>  아침 06시 30분 : 가정식
 - <b>21일</b>  새참 10시 30분 : 메뉴 미정
-- <b>21일</b>  점심 12시 00분 : 메뉴 미정
+- <b>21일</b>  점심 12시 00분 : 가정식
 - <b>21일</b>  새참 15시 30분 : 메뉴 미정
 - <b>21일</b>  저녁 18시 30분 : 삼겹살~🥓
 - <b>22일</b> 아침 08시 00분 : 가정식
@@ -144,7 +142,7 @@
         
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-       width="18" height="18">huckleberryPin_official(인스타)을 팔로우 하고 여행기를 공유해 주세요~<br>&nbsp;&nbsp;&nbsp;&nbsp;공유해 주신 분들께 <b>엄청난 선물</b>을 드립니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>#허클베리핀 #huckleberryPin #농촌관광 #충주시 #흙사랑농원 </b><br>&nbsp;&nbsp;&nbsp;&nbsp;(여행 마지막 날 담당자에게 꼭 보여주세요.)</p>        
+       width="18" height="18">huckleberryPin_26(인스타)을 팔로우 하고 여행기를 공유해 주세요~<br>&nbsp;&nbsp;&nbsp;&nbsp;공유해 주신 분들께 <b>엄청난 선물</b>을 드립니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>#허클베리핀 #huckleberryPin #농촌관광 #충주시 #흙사랑농원 </b><br>&nbsp;&nbsp;&nbsp;&nbsp;(여행 마지막 날 담당자에게 꼭 보여주세요.)</p>        
 
 //공지 개선(노동 어필, 분위기 흐리는 것, 전날 술 책임전가, 영상촬영 언급 강하게)
 
@@ -159,12 +157,6 @@
 
 <br><br>
 
-## 사람 냄새 가득한 허클베리핀 1기의 여행 보러가기
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=gEaJTgIGxDU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<br><br>
-
 
 ## 허클베리핀의 파트너들
 
@@ -176,6 +168,7 @@
 - 기술보증기금에서 <b>소셜벤처</b> 인증을 받았습니다.<br>
 - 기술보증기금에서 <b>기술평가 B등급</b>을 받았습니다.<br>
 - 충주시와 <b>상호협력교류(MOU)</b>를 체결했습니다.
+- 국회(입법부)공무원노동조합과 <b>상호협력교류(MOU)</b>를 체결했습니다.
 
 <br>
 
