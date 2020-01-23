@@ -4,7 +4,7 @@
 
 ## Q. 농장의 정확한 주소를 알려주세요!
 
-- <b>흙사랑농원</b> 
+- <b>흙사랑농원(세월을파는농부)</b> 
 - 충청북도 충주시 번던 2길 36
 
 <br>
@@ -96,10 +96,9 @@
 
 ## Q. 주변에 관광지나 대중교통은 활발한가요?
 
-- 봉화군은 관광지보다 별이 많은 마을입니다✨
-- 집에서 3km 떨어진 곳에 마을버스가 다니지만 하루 세번 운행합니다. 
-- 버스는 16시에 끊기니, 필요한 것들은 미리 사 오는 것을 권합니다.
-- 주변 지역(영주, 안동, 단양) 관광지 담당자에게 물어보시면 좋은 곳 알려 드리겠습니다 :)
+- 충주시는 <b>미륵대원지</b>, <b>청룡사지<b> 등 문화/역사 관광지가 많은 지역입니다.✨
+- 집에서 1km 떨어진 곳에 마을버스가 다니지만 하루 두번(13시,18시) 운행합니다. 
+- 버스는 18시에 끊기니, 필요한 것들은 미리 사 오는 것을 권합니다.
 
 <br>
 
@@ -107,17 +106,6 @@
 
 - 마을회관과 농가에 상비약이 비치되어 있습니다. 조금이라도 다치면 담당자에게 바로 알려주세요.
 - 허클베리핀은 [관광보증보험](https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/insurance.png)에 가입 되어 있습니다. (다쳐도 된다는 말 아님..)
-
-<br>
-
-## Q. 사진 보여주세요!
-
-<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pic1.png">
-<br>
-<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pic2.png">
-
-//농장 시설 (화장실, 샤워실, 숙소 사진 첨부)
-
 
 <br>
 <br>
@@ -144,7 +132,7 @@
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
        width="18" height="18">huckleberryPin_26(인스타)을 팔로우 하고 여행기를 공유해 주세요~<br>&nbsp;&nbsp;&nbsp;&nbsp;공유해 주신 분들께 <b>엄청난 선물</b>을 드립니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>#허클베리핀 #huckleberryPin #농촌관광 #충주시 #흙사랑농원 </b><br>&nbsp;&nbsp;&nbsp;&nbsp;(여행 마지막 날 담당자에게 꼭 보여주세요.)</p>        
 
-//공지 개선(노동 어필, 분위기 흐리는 것, 전날 술 책임전가, 영상촬영 언급 강하게)
+//공지 개선(노동 어필, 노동 분위기 흐리는 것, 전날 술 책임, 영상촬영 언급)
 
 
 <br>
