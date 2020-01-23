@@ -140,7 +140,7 @@
 
 ## 우리 같이 ‘가치’를 만들어가는 소중한 시간 함께 할래요?
 
-<img src="https://raw.githubusercontent.com/SUWANKIM/Read-Me/master/catchphraseeeee.png">
+<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe_season2/master/catchp.png">
 
 
 <br><br>
