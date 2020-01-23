@@ -79,18 +79,17 @@
 
 ## Q. 첫날(31일) 픽업은 몇 시인가요?
 
-- 동서울터미널에서 6시 20분 버스 타고 오시는 분들은 <b>충주공용버스터미널</b>에서 <b>21시</b>에 픽업 차량 탈 수 있습니다.
-- 6시 20분 이전 버스 타고 오시는 분들은 <b>010-2744-5763</b>으로 <b>문자(성함/예상 도착시간)</b> 주세요.
-- 금요일은 충주 내려오는 버스가 금방 매진됩니다. 
-- 버스표는 최소 3일 전 예매해 주세요.
+- 충주공용버스터미널에서 21시에 픽업 차량 제공 됩니다.
+- 충주공용버스터미널로 가는 시외/고속버스는 동서울,센트럴 터미널에서 탑승 가능합니다.
+- 금요일 버스표가 금방 매진될 수 있으니 티켓은 최소 3일 전 예매해 주세요.
 
 <br>
 
 ## Q. 돌아가는 날(2일) 픽업은 몇 시인가요?
 
-- 충주공용버스터미널로 가는 단체 차량은 13시에 제공되며, 충주에서 동서울로 가는 14시 차 타실 수 있습니다.
+- 충주공용버스터미널로 가는 단체 차량은 13시에 제공됩니다.
+- 충주공용버스터미널에서 동서울로 가는 버스는 30분 간격으로 운행됩니다 :)
 - 자차 이용하시는 분들은 편한 시간에 이동하시면 됩니다.
-- 충주공용버스터미널에서 동서울 가는 막차는 18시 40분 입니다.
 
 <br>
 
@@ -124,15 +123,16 @@
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
         width="18" height="18">사과의 품종은 <b>부사</b>입니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;사과 수확 방식은 농가마다 다릅니다:)<br>&nbsp;&nbsp;&nbsp;&nbsp;농가의 수확 방식을 따라주세요.</p>
 
-
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-        width="18" height="18">허클베리핀 레퍼런스를 위해 영상 촬영을 할 예정입니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;촬영이 정말 싫으신 분들은 미리 알려주세요.<br>&nbsp;&nbsp;&nbsp;&nbsp;촬영팀에게 전달하겠습니다.</p>
+        width="18" height="18">여행중 음주는 가급적 노동이 끝난 후 해주세요. <br>&nbsp;&nbsp;&nbsp;&nbsp; 일하기 전날(31일) 무리한 음주는 다음날 노동에 영향을 줄 수 있습니다. (노동 끝난 후 만취 가능) </p>
+        
+        
+<p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
+        width="18" height="18">허클베리핀 레퍼런스를 위해 영상 촬영을 할 예정입니다.<br>&nbsp;&nbsp;&nbsp;&nbsp; 카메라에 놀라지 마시고 예쁘게 웃어주세요:) <br>&nbsp;&nbsp;&nbsp;&nbsp;여행이 끝난 후 좋은 영상 만들어서 보내드리겠습니다.</p>
         
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-       width="18" height="18">huckleberryPin_26(인스타)을 팔로우 하고 여행기를 공유해 주세요~<br>&nbsp;&nbsp;&nbsp;&nbsp;공유해 주신 분들께 <b>엄청난 선물</b>을 드립니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>#허클베리핀 #huckleberryPin #농촌관광 #충주시 #흙사랑농원 </b><br>&nbsp;&nbsp;&nbsp;&nbsp;(여행 마지막 날 담당자에게 꼭 보여주세요.)</p>        
-
-//공지 개선(노동 어필, 노동 분위기 흐리는 것, 전날 술 책임, 영상촬영 언급)
+       width="18" height="18">huckleberryPin_26(인스타)을 팔로우 하고 여행기를 공유해 주세요~<br>&nbsp;&nbsp;&nbsp;&nbsp;공유해 주신 분들께 <b>엄청난 선물</b>을 드립니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>#허클베리핀 #huckleberryPin #클리핀 #소셜벤처 #스타트업 #충주시 #흙사랑농원 #세월을파는농부</b><br>&nbsp;&nbsp;&nbsp;&nbsp;(여행 마지막 날 담당자에게 꼭 보여주세요.)</p>        
 
 
 <br>
