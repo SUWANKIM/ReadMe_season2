@@ -25,7 +25,7 @@
 
 ## Q. 2박 3일 여행 일정을 알려주세요!
 
-<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/last_process.png">
+<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe_season2/master/proceeee.png">
 
 - 일을 마치는 시간은 당일 현장 상황에 따라 30분 정도 편차가 생길 수 있습니다. 
 
