@@ -117,7 +117,7 @@
 
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-        width="18" height="18">농장주가 주는 <b>돈 또는 어떠한 작물도 받지 마세요.</b> <br>&nbsp;&nbsp;&nbsp;&nbsp;5시간 노동의 대가는 오직 이틀의 숙박과 음식입니다.</p>
+        width="18" height="18">농장주가 주는 <b>돈 또는 어떠한 작물도 받지 마세요.</b> <br>&nbsp;&nbsp;&nbsp;&nbsp;7시간 노동의 대가는 오직 이틀의 숙박과 음식입니다.</p>
         
 
 
